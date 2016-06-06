@@ -15,9 +15,15 @@ author:
 <br />
 
 1) 문제상황
+     <div class="example">
 
+        <div class="highlight">
+        <pre>
 
 	대부분의 직장인들은 시간이 부족하여 건강 관리에 소홀하다
+	
+	        </pre>
+        </div>
 
 2) 목적
 
