@@ -1,13 +1,13 @@
 # Setup
-title:        Project or Site name
+title:        trust1303.github.io
 tagline:      A responsive theme for your project on GitHub Pages
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Author name
-  url:        http://yourhomepage.com 
+  name:       trust1303
+  url:        trust1303.github.io
 
 # Gems
 gems:
