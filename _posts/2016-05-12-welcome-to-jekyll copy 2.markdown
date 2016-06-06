@@ -3,7 +3,7 @@ layout: post
 title:  "BioGlass"
 date:   2016-05-12 22:01:43 +0530
 categories: poem
-author: "Nicholas Gordan"
+author: 
 ---
 
 
@@ -11,8 +11,7 @@ author: "Nicholas Gordan"
 _ _ _
 
 
-####1) 문제상황####
-- - -
+####1) 문제상황
 
 
 	대부분의 직장인들은 시간이 부족하여 건강 관리에 소홀하다
