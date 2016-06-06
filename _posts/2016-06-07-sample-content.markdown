@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "테스트나 함 해볼까???"
+title:  "테스트나 함 해볼까?"
 date:   2016-06-07 00:02:00
 categories: main
 ---
