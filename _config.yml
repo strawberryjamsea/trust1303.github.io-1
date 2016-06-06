@@ -6,14 +6,14 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: SAFARNAMA
-email: your-email@domain.com
-description: STORIES ON THE MOVE
+title: 다들 졸리죠?
+email: trust1303@naver.com
+description: 삶은 계란
 
 baseurl: "" #e.g. /safarnama, /blog. Dont forget the '/'.
-url: "http://hemangsk.github.io" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://trust1303.github.io" # the base hostname & protocol for your site
+twitter_username:
+github_username: trust1303
 
 # Build settings
 markdown: kramdown
