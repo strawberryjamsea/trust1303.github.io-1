@@ -1,59 +1,73 @@
-# Jekyll Cayman theme
+![alt-tag](https://c2.staticflickr.com/8/7167/26672340054_eaae3d4e7f_o.png)
+![alt-tag](https://c2.staticflickr.com/8/7013/26671807574_4487215cda_o.png)
 
-This is a [Jekyll][1] theme for [@jasonlong][2]'s [Cayman theme][4] on [GitHub Pages][3].
+#### To create a new post :sunglasses:
 
-Cayman is a clean, responsive theme for [GitHub Pages](https://pages.github.com). This theme is available as an option if you use the [Automatic Page Generator](https://help.github.com/articles/creating-pages-with-the-automatic-generator/) or you can copy the template and styles to use on your own.
-
-You can preview the theme at http://jasonlong.github.io/cayman-theme or with real content at http://jasonlong.github.io/geo_pattern.
-
-![](http://cl.ly/image/1T3r3d18311V/content)
-
-# How to use it?
-
-Download the theme @ http://github.com/pietromenna/jekyll-cayman-theme/archive/master.zip
-
-Unzip it and use it as a regular jekyll folder.
-
+- Create a .markdown file inside _posts folder.
+- Name the file according to the standard jekyll format.
 ```
-$ unzip master.zip
+   2016-03-30-i-love-design.markdown
 ```
+- Write the Front Matter and content in the file.
+    ```
+          ---
+          layout: post
+          title:  String Post Title
+          date:   Time Stamp
+          categories: String | Array of Strings Category / Categories
+          ---
+    ```
 
-Get inside the newly extracted folder
+    ```
+        ---
+        layout: post
+        title:  "The One with the Blackout"
+        date:   2016-03-30 19:45:31 +0530
+        categories: ["life", "friends"]
+        ---
+    ```  
+
+
+![alt-tag](https://c2.staticflickr.com/8/7073/27208796421_05b7f79b4b_o.png)
+
+
+####Create new pages, such a breeze! :smile:
+- Create a .md file in the root directory.
+- Name the file with the desired page link name.
 ```
-$ cd jekyll-cayman-theme
+   about.md
 ```
-
-Get the required gems
 ```
-$ bundle install
+   design.md
 ```
-
-Use it!
-
+- Write the Front Matter and content in the file.
 ```
-$ jekyll serve
+          ---
+          layout: page
+          title: String Title of the webpage
+          permalink: / String / Permalink for the webpage
+          tagline: String Optional Feature : Tagline for the page
+          ---
+```      
 ```
+        ---
+        layout: page
+        title:  "Science"
+        permalink:   /science/
+        tagline : "Humanity is overrated."
+        ---
+```      
 
-For more details read about [Jekyll][1] on its web page.
+![alt-tag](https://c2.staticflickr.com/8/7613/27278759785_da430e2f99_o.png)
 
-# Setup
+####It'd be really cool if you,<br>
+1.  Create some new feature and would like to integrate in Safarnama. Pull requests are most invited.
+2.  Open issues if you find bugs.
+3.  Just so you know, the license type is MIT.
 
-Some important configuration can be done in the file `_config.yml`. Please, check the Setup section in that file.
 
+>Its' all about being community driven.  :bus: :bus: :dash:
 
-## baseurl
+If there's any issue you are facing in setting up Safarnama, I'm there for you. Just create an issue in this repository (http://github.com/hemangsk/safarnama), (https://help.github.com/articles/creating-an-issue/) and I'll get back to you asap. :smile: :+1:<br>
 
-`baseurl` parameter is required in the case the site doesn't sit on the root of the domain. For example: http://pietromenna.github.io/jekyll-cayman-theme
-
-In the case above the baseurl should be set to "/jekyll-cayman-theme".
-
-In the case the site sits in the root, you can leave `baseurl` as empty "".
-
-# License
-
-This work is licensed under a [Creative Commons Attribution 4.0 International](http://creativecommons.org/licenses/by/4.0/) license.
-
-[1]: http://jekyllrb.com/
-[2]: https://github.com/jasonlong
-[3]: http://pages.github.com/
-[4]: https://github.com/jasonlong/cayman-theme
+Have a great day!  :smile: :smile: :smiley:

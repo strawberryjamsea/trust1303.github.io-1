@@ -1,17 +1,19 @@
-# Setup
-title:        trust1303.github.io
-tagline:      A responsive theme for your project on GitHub Pages
-baseurl:      ""
-paginate:     1
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
-# About/contact
-author:
-  name:       trust1303
-  url:        trust1303.github.io
+# Site settings
+title: SAFARNAMA
+email: your-email@domain.com
+description: STORIES ON THE MOVE
 
-# Gems
-gems:
-  - jekyll-paginate
+baseurl: "" #e.g. /safarnama, /blog. Dont forget the '/'.
+url: "http://hemangsk.github.io" # the base hostname & protocol for your site
+twitter_username: jekyllrb
+github_username:  jekyll
 
-#Others
+# Build settings
 markdown: kramdown
