@@ -1,6 +1,6 @@
 ---
-layout: Architect
-title: Download
+layout: page
+title: Architect
 permalink: /download/
 ---
 
