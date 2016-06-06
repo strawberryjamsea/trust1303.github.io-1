@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Design
+title: System
 permalink: /design/
 ---
 
