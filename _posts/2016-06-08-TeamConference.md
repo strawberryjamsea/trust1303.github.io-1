@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "06/08 팀회의"
+title:  "06/08 TEAM MEETING"
 categories: 팀회의
 ---
 
