@@ -4,7 +4,7 @@ title:  "06/08 팀회의"
 categories: 팀회의
 ---
 
-<img src="http://trust1303.github.io/images/20160608_125839.jpg" width="90%">
+<img src="http://trust1303.github.io/images/20160608_125839.jpg" width="95%">
 
 오후 12시부터 회의를 진행하였고, 1명이 수업시간때문에 도중 참여를 했다.
 
@@ -16,7 +16,7 @@ _ _ _
 
 _ _ _
 
-![_config.yml]({{ site.baseurl }}/images/20160608_134153.jpg)
+<img src="http://trust1303.github.io/images/20160608_134153.jpg" width="95%">
 
 오후 2시에 모임을 마쳤다.
 
