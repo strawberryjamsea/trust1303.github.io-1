@@ -32,7 +32,7 @@ html, body {
 }
 .cont{
   min-height: 800px !important;
-background-color: #d0f0c0;
+background-color: #FFC8FF;
 }
 
 .social{
@@ -141,7 +141,7 @@ text-transform: uppercase;
 }
 
 .categories-on{
-  color: lightseagreen !important;
+  color: #8B5927 !important;
 font-size: 14px !important;
 text-transform: uppercase !important;
 }
@@ -220,7 +220,7 @@ letter-spacing: 5px;
   letter-spacing: 3px;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 600px) {
     .navigation {
         font-size: 10px;
     }
