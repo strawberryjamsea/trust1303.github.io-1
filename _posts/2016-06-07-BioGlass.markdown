@@ -68,7 +68,7 @@ author:
 
 <br />
 
-	# 여기다 블록 다이어그램 넣으면 된다 #
+<img src="https://github.com/trust1303/trust1303.github.io/blob/master/images/%EC%BA%A1%EC%B2%98.PNG" width="95%">
 	
 <br />
 
