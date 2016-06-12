@@ -68,7 +68,7 @@ author:
 
 <br />
 
-<img src="https://github.com/trust1303/trust1303.github.io/blob/master/images/%EC%BA%A1%EC%B2%98.PNG" width="95%">
+<img src="trust1303.github.io/images/블록다이어그램_완성사진.GIF" width="95%">
 	
 <br />
 
@@ -82,11 +82,11 @@ author:
 <br />
 
 
-![](http://ggsoku.com/wp-content/uploads/59086ecb54c0ccc4c20ae861e3240479-500x268.png)
+<img src="http://ggsoku.com/wp-content/uploads/59086ecb54c0ccc4c20ae861e3240479-500x268.png" width="95%">
 
 <br />
 
-![](http://mms.businesswire.com/media/20150107005167/en/447690/4/API-graphic.jpg?download=1)
+<img src="http://mms.businesswire.com/media/20150107005167/en/447690/4/API-graphic.jpg?download=1" width="95%">
 
 <br />
 
