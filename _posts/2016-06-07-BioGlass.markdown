@@ -67,10 +67,11 @@ author:
 **2) 전체 시스템 구조**
 
 <br />
-![구글로고](http://www.google.co.kr/images/srpr/logo11w.png)
+
 ![구글로고](http://www.google.co.kr/images/srpr/logo11w.png)
 
-<img src="http://trust1303.github.io/images/images/블록다이어그램_PNG.PNG" width="95%">
+<img src="http://trust1303.github.io/images/블록다이어그램(PNG).GIF" width="95%">
+
 
 
 ![블록 다이어그램](http://postfiles8.naver.net/20160612_103/trust1303_1465697112199j2frh_PNG/%BA%ED%B7%CF%B4%D9%C0%CC%BE%EE%B1%D7%B7%A5_PNG.PNG?type=w773)
