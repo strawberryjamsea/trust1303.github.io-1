@@ -70,9 +70,9 @@ author:
 
 ![구글로고](http://www.google.co.kr/images/srpr/logo11w.png)
 
-![블록 다이어그램](trust1303.github.io/images/블록다이어그램_PNG.PNG)
+![블록 다이어그램](http://postfiles8.naver.net/20160612_103/trust1303_1465697112199j2frh_PNG/%BA%ED%B7%CF%B4%D9%C0%CC%BE%EE%B1%D7%B7%A5_PNG.PNG?type=w773)
 
-<img src="trust1303.github.io/images/블록다이어그램_PNG.PNG" width="95%">
+<img src="http://postfiles8.naver.net/20160612_103/trust1303_1465697112199j2frh_PNG/%BA%ED%B7%CF%B4%D9%C0%CC%BE%EE%B1%D7%B7%A5_PNG.PNG?type=w773" width="95%">
 	
 <br />
 
