@@ -68,6 +68,7 @@ author:
 
 <br />
 
+![블록 다이어그램](trust1303.github.io/images/블록다이어그램_PNG.PNG)
 <img src="trust1303.github.io/images/블록다이어그램_PNG.PNG" width="95%">
 	
 <br />
