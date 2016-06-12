@@ -143,6 +143,11 @@ JINS의 MEME은 눈의 움직임이나 변화를 추적하여 사용자에게 �
 
 A)
 
+<br />
+
+<img src="http://www.dt.co.kr/contents.html?article_no=2015030902109976731003" width="50%">
+
+<br />
 
 - 구성 요소 1
 
@@ -162,7 +167,6 @@ A)
 
 B)
 
-
 - 구성 요소 2
 
   	눈 깜빡임 인식 모듈
@@ -181,6 +185,12 @@ B)
 
 C)
 
+<br />
+
+<img src="http://blog.naver.com/PostView.nhn?blogId=cjm3599&logNo=70093201480&parentCategoryNo=22&categoryNo=&viewDate=&isShowPopularPosts=true&from=search" width="50%">
+
+
+<br />
 
 - 구성 요소 3
  
@@ -201,6 +211,12 @@ C)
 
 D)
 
+<br />
+
+<img src="http://www.etnews.com/20160113000292" width="50%">
+
+<br />
+
 
 - 구성 요소 4
  
@@ -220,7 +236,6 @@ D)
 
 E)
 
-
 - 구성 요소 5
 
       서비스 지정 병원의 Network 망
@@ -239,6 +254,11 @@ E)
 
 F)
 
+<br />
+
+<img src="http://www.betanews.net/article/621135" width="50%">
+
+<br />
 
 - 구성 요소 6
 
@@ -258,6 +278,11 @@ F)
 
 G)
 
+<br />
+
+<img src="http://robotpia.net/goods_detail.php?goodsIdx=2707" width="50%">
+
+<br />
 
 - 구성 요소 7
  
