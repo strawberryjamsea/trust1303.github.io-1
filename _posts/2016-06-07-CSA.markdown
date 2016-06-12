@@ -2,7 +2,7 @@
 layout: post
 title:  "컴퓨터 시스템 기초설계"
 date:   2016-06-07 01:51:00 +0900
-categories: 모든게
+categories: Computer
 author: "임 형 준"
 ---
 
