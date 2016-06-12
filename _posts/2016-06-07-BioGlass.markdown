@@ -143,12 +143,6 @@ JINS의 MEME은 눈의 움직임이나 변화를 추적하여 사용자에게 �
 
 A)
 
-<br />
-
-<img src="http://www.dt.co.kr/contents.html?article_no=2015030902109976731003" width="50%">
-
-<br />
-
 - 구성 요소 1
 
   	눈동자 움직임 인식 모듈
@@ -187,7 +181,7 @@ C)
 
 <br />
 
-<img src="http://blog.naver.com/PostView.nhn?blogId=cjm3599&logNo=70093201480&parentCategoryNo=22&categoryNo=&viewDate=&isShowPopularPosts=true&from=search" width="50%">
+<img src="http://www.robotis-shop-kr.com/data/goods/447/%C0%DA%C0%CC%B7%CE%BC%BE%BC%AD.view.jpg" width="50%">
 
 
 <br />
@@ -213,7 +207,7 @@ D)
 
 <br />
 
-<img src="http://www.etnews.com/20160113000292" width="50%">
+<img src="http://img.etnews.com/photonews/1601/763300_20160113141912_195_0001.jpg" width="50%">
 
 <br />
 
@@ -280,7 +274,7 @@ G)
 
 <br />
 
-<img src="http://robotpia.net/goods_detail.php?goodsIdx=2707" width="50%">
+<img src="http://robotpia.net/upload/goods/gd240_c1453452415_677_shop1_575884.jpg" width="50%">
 
 <br />
 
