@@ -16,7 +16,7 @@ _ _ _
 
 <br />
 
-![_config.yml]({{ site.baseurl }}/images/BioGlass 시스템구조.PNG)
+
 <img src="{{ site.baseurl }}/images/BioGlass 시스템구조.PNG" width="95%">
 
 
