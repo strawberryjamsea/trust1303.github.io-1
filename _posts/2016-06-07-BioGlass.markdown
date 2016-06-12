@@ -68,7 +68,7 @@ author:
 
 <br />
 
-<img src="http://trust1303.github.io/images/블록다이어그램(PNG).GIF" width="110%">
+<img src="http://trust1303.github.io/images/블록다이어그램(PNG).GIF" width="100%">
 
 
 <br />
