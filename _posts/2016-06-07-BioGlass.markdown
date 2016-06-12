@@ -3,7 +3,7 @@ layout: post
 title:  "BioGlass"
 date:   2016-06-07 01:45:30 +0900
 
-categories: 않네
+categories: Architect
 author: 
 ---
 
@@ -19,7 +19,7 @@ author:
 
 <br />
 
-<U>	대부분의 직장인들은 시간이 부족하여 건강 관리에 소홀하다	</U>
+	대부분의 직장인들은 *시간이 부족*하여 *건강 관리에 소홀*하다
 	
 
 **2) 목적**
