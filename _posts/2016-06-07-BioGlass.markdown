@@ -68,7 +68,10 @@ author:
 
 <br />
 
+![구글로고](http://www.google.co.kr/images/srpr/logo11w.png)
+
 ![블록 다이어그램](trust1303.github.io/images/블록다이어그램_PNG.PNG)
+
 <img src="trust1303.github.io/images/블록다이어그램_PNG.PNG" width="95%">
 	
 <br />
@@ -91,7 +94,7 @@ A) 기존 유사제품: 일본의 JINS 밈(MEME)
 
 <br />
 
-<http://tvpot.daum.net/v/v8fcaQvQ0NvK44Y40GQV3yw/>
+<http://tvpot.daum.net/v/v8fcaQvQ0NvK44Y40GQV3yw>
 
 <https://developers.jins.com/en/>
 
